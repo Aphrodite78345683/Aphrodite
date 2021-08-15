@@ -1,6 +1,8 @@
 body{
     background-color:rgb(230, 223, 223);
 }
+p{
+    text-align:right;}
 h1{color:rgb(1, 4, 7);
     font-size:80px;
     text-decoration:underline;
