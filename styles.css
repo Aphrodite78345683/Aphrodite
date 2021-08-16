@@ -22,3 +22,12 @@ div{
       text-align:center;
       font-size: 50px;
   }
+@-o-viewport{
+    zoom: 1.0;
+    width: extend-to-zoom}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;}
+
+        
+
